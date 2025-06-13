@@ -25,3 +25,7 @@ if(mark >= 90) {
 }else {
     console.log('fail')
 }
+
+// more code
+let ksshafin = 'shafin is good boy';
+console.log(ksshafin);
